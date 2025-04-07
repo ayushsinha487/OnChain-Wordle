@@ -1,6 +1,6 @@
-# CryptoWordQuest Game
+# OnChain Wordle
 
-Welcome to the CryptoWordQuest game! This game is fully decentralized and runs on the  blockchain. Players take turns guessing a 5-letter word, and the contract provides feedback on each guess, helping players refine their attempts.
+Welcome to the OnChain Wordle! This game is fully decentralized and runs on the  blockchain. Players take turns guessing a 5-letter word, and the contract provides feedback on each guess, helping players refine their attempts.
 
 ## Features
 
